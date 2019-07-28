@@ -69,7 +69,7 @@ Additionally, note that:
 
 When you're all finished, write a `README` file detailing all steps required to successfully run the application. If you have added additional tests, provide documentation for what these future features are and what the tests are checking for.
 
-#How to use the application
+# How to use the application
 
 You will need to clone or download the application into your device and open index.html to make it run.
 
