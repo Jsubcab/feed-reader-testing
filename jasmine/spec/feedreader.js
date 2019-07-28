@@ -33,8 +33,8 @@ $(function() {
          */
         it('url is not empty', function() {
             allFeeds.forEach(function (arrayItem) {
-                var a = arrayItem.url;
-                expect(a).toBeTruthy();
+                expect(arrayItem.url).toBeDefined();
+                expect(arrayItem.url.length).not.toBe(0);
             });
         });
 
@@ -45,8 +45,8 @@ $(function() {
 
          it('name is not empty', function() {
             allFeeds.forEach( function(arrayItem) {
-                var a = arrayItem.name;
-                expect(a).toBeTruthy();
+                expect(arrayItem.url).toBeDefined();
+                expect(arrayItem.url.length).not.toBe(0);
             });
          });
     });
