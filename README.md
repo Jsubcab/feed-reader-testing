@@ -82,10 +82,10 @@ This repository is the starter code for _all_ Udacity students. Therefore, we mo
 Im gonna split the explanation numbering the test I did:
 
 ### Test 1
-First test is about check if the object allFeeds had URL and name assigned and it wasnt empty.
+First test is about to check if the object allFeeds has URL is assigned and it wasnt empty.
 
 ### Test 2
-In this second part is exactly the same of the first test, but checking the name (must to be assigned and cannot be empty).
+In this second part, that is exactly the same of the first test, but checking the name (must be assigned and cannot be empty).
 
 ### Test 3
 I wrote a new test suite named "The menu" that checked if the menu was hide it by default. For this test I needed to call the class "menu-hidden".
