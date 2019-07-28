@@ -82,6 +82,19 @@ This repository is the starter code for _all_ Udacity students. Therefore, we mo
 Im gonna split the explanation numbering the test I did:
 
 ### Test 1
-First test is about check if the object allFeeds had URL and name assigned. Also to check if it wasnt empty.
+First test is about check if the object allFeeds had URL and name assigned and it wasnt empty.
 
 ### Test 2
+In this second part is exactly the same of the first test, but checking the name (must to be assigned and cannot be empty).
+
+### Test 3
+I wrote a new test suite named "The menu" that checked if the menu was hide it by default. For this test I needed to call the class "menu-hidden".
+
+### Test 4
+This test is related to the third one, but in this case I need to use the function click for checking if the menu was hide it everytime I was clicking the button of the menu.
+
+### Test 5
+Here I created test suite called "Initial Entries". This suite included a test which checked to see if there is a single .entry element in the .feed container.
+
+### Test 6
+Finally I created the test suite "New Feed Selection". This one was more tricky because the loadFeed() is asynchronous, so I used 2 feeds: prevFeedData and newFeedData to check if the content changed.
