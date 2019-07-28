@@ -69,6 +69,19 @@ Additionally, note that:
 
 When you're all finished, write a `README` file detailing all steps required to successfully run the application. If you have added additional tests, provide documentation for what these future features are and what the tests are checking for.
 
+#How to use the application
+
+You will need to clone or download the application into your device and open index.html to make it run.
+
+After this, you can check the bottom of the webpage for seeing Jasmine and the results of it.
+
 # Contributing
 
 This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+
+Im gonna split the explanation numbering the test I did:
+
+### Test 1
+First test is about check if the object allFeeds had URL and name assigned. Also to check if it wasnt empty.
+
+### Test 2
