@@ -9,11 +9,11 @@ Testing is an important part of the development process and many organizations p
 
 Whether you work in an organization that uses test-driven development or in an organization that uses tests to make sure future feature development doesn't break existing features, it's an important skill to have!
 
-# How to install it
+## How to install it
 
 You will need to clone the git to your application on your terminal or download the zip file and unzipped.
 
-# How to run it
+## How to run it
 
 Initiate the 'index.html' file located in the main folder of 'feed-reader-testing'. Once started, you must to scroll down for checking if the test pass every control point.
 
