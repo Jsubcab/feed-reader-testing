@@ -69,11 +69,13 @@ Additionally, note that:
 
 When you're all finished, write a `README` file detailing all steps required to successfully run the application. If you have added additional tests, provide documentation for what these future features are and what the tests are checking for.
 
-# How to use the application
+# How to install it
 
-You will need to clone or download the application into your device and open index.html to make it run.
+You will need to clone the git to your application on your terminal or download the zip file and unzipped.
 
-After this, you can check the bottom of the webpage for seeing Jasmine and the results of it.
+# How to run it
+
+Initiate the 'index.html' file located in the main folder of 'feed-reader-testing'. Once started, you must to scroll down for checking if the test pass every control point.
 
 # Contributing
 
