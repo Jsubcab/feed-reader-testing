@@ -17,11 +17,9 @@ You will need to clone the git to your application on your terminal or download 
 
 Initiate the 'index.html' file located in the main folder of 'feed-reader-testing'. Once started, you must to scroll down for checking if the test pass every control point.
 
-# Contributing
+# Tests review
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
-
-Im gonna split the explanation numbering the test I did:
+Time to explain what I did in every test of the application!:
 
 ### Test 1
 First test is about to check if the object allFeeds has URL is assigned and it wasnt empty.
