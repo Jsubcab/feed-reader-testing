@@ -17,7 +17,7 @@ You will need to clone the git to your application on your terminal or download 
 
 Initiate the 'index.html' file located in the main folder of 'feed-reader-testing'. Once started, you must to scroll down for checking if the test pass every control point.
 
-# Tests review
+# Tests summary
 
 Time to explain what I did in every test of the application!:
 
